@@ -1,6 +1,6 @@
 # storm-report
 
-一个 [CodeBuddy Code](https://cnb.cool/codebuddy/codebuddy-code) skill：用 Stanford STORM 框架研究一个主题，产出一份给自己看的综合研究报告。
+一个自用skill，可供常用harness使用（opencode、pi、codebuddy）：用 Stanford STORM 框架研究一个主题，产出一份给自己看的综合研究报告。
 
 改编自 Shao et al., *Assisting in Writing Wikipedia-like Articles From Scratch* ([arXiv:2402.14207](https://arxiv.org/abs/2402.14207))，并叠加了两个原论文没有的环节：**显式冲突图谱（Contradiction Map）** 与 **隔离式同行评审（Peer Preview）**。保留论文中真正带来增益的机制，砍掉为论文评测服务的部分。
 
